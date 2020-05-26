@@ -84,3 +84,26 @@ public VennDiagramHelper(string Equation)
 			}
 			return oprn.Pop();
 		}
+              private Geometry Operate(Geometry operand, Operators operators)
+		{
+			CombinedGeometry cg = new CombinedGeometry(GeometryCombineMode.Exclude, _rgRect, operand);
+			return cg;
+		}
+
+		private Geometry Operate(Geometry operand1, Geometry operand2, Operators operators)
+		{
+			CombinedGeometry cg = new CombinedGeometry();
+			switch (operators)
+			{
+				case Operators.Intersect:
+					cg.GeometryCombineMode = GeometryCombineMode.Intersect;
+					break;
+				case Operators.Union:
+					cg.GeometryCombineMode = GeometryCombineMode.Union;
+					break;
+			}
+			cg.Geometry1 = operand1;
+			cg.Geometry2 = operand2;
+			return cg;
+		}
+
