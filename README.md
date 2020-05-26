@@ -13,7 +13,7 @@ StdID | Name
 
 Venn diagrams are great for illustrating the relationship between two or three groups, you can easily see the commonalities and differences.
 
-We are Working on Ven Diagram which has multiple functions but two functions are general  one is Union and Second is Intersection. First user input equation and then by clicking on Ven Diagram it will ploted the Ven Diagram of that equation.
+We are Working on Ven Diagram which has multiple functions but two functions are general  one is Union and Second is Intersection. First we were user input equation and then by clicking on Ven Diagram it will ploted the Ven Diagram of that equation.
 
 The Venn diagram of librarians and technologists together clearly defines values and cultures that are unique and individual to each profession, yet it also has a solid center section of overlapping values and cultures that provide a solid common ground for cooperation, collaboration, and convergence. It is these areas that form the core opportunities for bringing professions together, and from which inroads can be made to further expand a common culture among information professionals.
 
