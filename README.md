@@ -7,7 +7,7 @@ StdID | Name
 62381 | Hamza Raza 
 61880 | Umair Mehdi
 62371 | Anas
- | Hasnain Tariq
+63578 | Hasnain Tariq
 
 ## Project Description 
 
