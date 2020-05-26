@@ -1,8 +1,6 @@
-# VennDiagramPhase3
-DMSpring2020: Project phase3(group leader:Taha khan)
-#DM 103347: VennDiagram
+# DM 103347: VennDiagram
 
-###PROJECT MEMBERS
+### PROJECT MEMBERS
 StdID | Name
 ------------ | -------------
 **63646** | **Taha Khan** 
