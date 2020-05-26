@@ -106,4 +106,14 @@ public VennDiagramHelper(string Equation)
 			cg.Geometry2 = operand2;
 			return cg;
 		}
+              private void InitializeOperandVisuals()
+		{
+			_dictOperandVisual.Clear();
+			List<Point> selectedCircle = _plCirclesPoint[_iCircleCount - 1];
+			for (int i = 0; i < _clOperands.Count; i++)
+			{
+				_dictOperandVisual.Add(_clOperands[i], new EllipseGeometry(selectedCircle[i], _iRadius, _iRadius));
+			}
+		}
+		#endregion
 
