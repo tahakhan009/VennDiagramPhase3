@@ -13,13 +13,15 @@ StdID | Name
 
 Venn diagrams are great for illustrating the relationship between two or three groups, you can easily see the commonalities and differences.
 
+We are Working on Ven Diagram which has multiple functions but two functions are general  one is Union and Second is Intersection. First user input equation and then by clicking on Ven Diagram it will ploted the Ven Diagram of that equation.
+
 The Venn diagram of librarians and technologists together clearly defines values and cultures that are unique and individual to each profession, yet it also has a solid center section of overlapping values and cultures that provide a solid common ground for cooperation, collaboration, and convergence. It is these areas that form the core opportunities for bringing professions together, and from which inroads can be made to further expand a common culture among information professionals.
 
 Information
 This is the obvious overlapping value, but it is the foundation upon which all these values (shared or separate) are formed. Libraries and technology organizations are information-based support structures designed to relate people to information. They are workflow-agnostic, having application across the institution, and as noted previously, they themselves are now joined together directly with the rise of electronic library services. They are also increasingly dealing with broadening definitions of information. At one time, information (collected by libraries and technologists) was principally print-based. Now multimedia materials are prevalent and reshaping the boundaries of what may be considered a library collection, or what types of data may be stored in a database. In reality, there should be no boundaries when it comes to information that may be relevant for libraries or technology organizations to pursue, capture, and make available. The future will require both professions to work very closely together to deliver these information systems to users.
 
 ## Discrete Math Concepts Used 
-In this project we have to  use vennDiagram(union,intersection).
+In this project we have to  plote vennDiagram By using these functions union and intersection.
 we were solve the equations and drawn the ven diagram of each quation.
 
 ### Example 1: 
@@ -123,13 +125,18 @@ class Intersect
 
 
 ## Problems Faced
-we were facced more problems just like to solve equation and to ploting the ven diagram. we were read some articles and thesis and to learn xml, how to ploting the ven diagram in this project. 
+As it is a quite dificult subject so we faced many difficulties to choose this project because Ven Diagram ploted is a difficult task to ploted the ven diagram of every equations.
 
-### Problem 1: sove Equation 
-Now it was more difficlt task to solve the equation in C#.we were learned xml and to combine all the equations and to make three functions one is union and second is intersection and third is stack.  
+### Problem 1: 
 
-#### Problem 2: Ploting Venn diagram
-It was very easy through MathPlotLib in Python becaue mathplotlib to provide the library ven diagram. so we were to learn the XML and to ploting the ven diagram. ploting ven diagram in 'x' axis or 'y' axiis
+#### Solving Equation
+We were enable to understand the exact code of ploted ven Diagram and also faced difficulty in divide the functions of 5 group members. 
+Now it was more difficlt task to solve the equation in C#.we were learned How to combine the equations and to Ploted the Ven Diagram of that equations.  
 
+#### Problem 2: 
+First we were using Union and Intersection and when we entering the large equation it was not able to recognize the error after spreading one or two days we came to conclusion that we should change update the code and be flexible to take input large equation and to plote the ven diagaram of every equations.  
 ## References
 - [links](https://alstatr.blogspot.com/2013/11/python-venn-diagram.html).
+- [links](https://stackoverflow.com/questions/25541036/creating-venn-diagram-in-c-sharp-win-form).
+- [links](https://forums.asp.net/t/2085449.aspx?Making+Groups+as+a+Venn+Diagram+in+C+).
+
